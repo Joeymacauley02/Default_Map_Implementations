@@ -5,6 +5,7 @@
 // DESC: Implementation of an ArraySeq and the corresponding sort functions (merge and quick)
 //----------------------------------------------------------------------
 
+//testing things out
 #ifndef ARRAYLIST_H
 #define ARRAYLIST_H
 
